@@ -38,7 +38,7 @@ public class ShoppingCartTest {
         System.out.println("Executed after each test method in this class.");
     }
 
-// These are the tests taken when testing the program
+// These are the tests taken when testing the program and stuff
     @Test
     public void testAddProduct() {
         cart.addProduct(product1);
